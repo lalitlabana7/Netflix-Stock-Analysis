@@ -1,5 +1,6 @@
 # Netflix-Stock-Analysis
 
+<h1>
 <br>Statement 1: Volume Of Stock Traded </br>
 
 ![Image](Statement1.png)
@@ -23,3 +24,4 @@ Statement 5 :Top 5 Dates With Lowest Stock price</br>
 Statement 6:High And Low Value Stock Per Day</br>
 
 ![Image](Statement6.png)
+</h1>
